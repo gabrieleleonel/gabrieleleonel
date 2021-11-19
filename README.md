@@ -3,7 +3,7 @@
 
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/720px-Flag_of_Brazil.svg.png" width="20"> Brail - São Paulo
   <br>
-  😊 Pronouns: ela/dela
+  😊 Pronomes: Ela/Dela
   <br>
   📚 Cursando Análise e Desenvolvimento de Sistemas no <a href="https://portal.cmp.ifsp.edu.br" target="_blank">Instituto Federal de São Paulo - Campus Campinas</a>.
   <br>
