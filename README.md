@@ -1,7 +1,7 @@
 <h2> Olá Mundo! <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <h3>🤖 Sobre Mim </h3>
 
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/720px-Flag_of_Brazil.svg.png" width="20"> Brail - São Paulo
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/720px-Flag_of_Brazil.svg.png" width="20"> Brasil - São Paulo
   <br>
   😊 Pronomes: Ela/Dela
   <br>
