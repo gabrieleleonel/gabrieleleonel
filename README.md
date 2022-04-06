@@ -5,19 +5,40 @@
   <br>
   😊 Pronomes: Ela/Dela
   <br>
+  🎓 Técnica em Eletrônica pelo <a href="https://etecbentoquirino.com.br/new/" target="_blank">ETEC Bento Quirino</a>.
+  <br>
   📚 Cursando Análise e Desenvolvimento de Sistemas no <a href="https://portal.cmp.ifsp.edu.br" target="_blank">Instituto Federal de São Paulo - Campus Campinas</a>.
   <br>
   💻 Trabalho na empresa <a href="http://www.nccgroup.com.br" target="_blank">NCC Group Brasil</a> como Analista Desenvolvedor Fluig Junior.
 
 <h3>Iniciando em</h3>
-🕮 Python | Game Developing
+<div dir="auto"><br>
+  <img align="center" alt="Gabriele-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="max-width: 100%;">
+  <img align="center" alt="Gabriele-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width: 100%;">
+  <img align="center" alt="Gabriele-Unity" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" style="max-width: 100%;">
+</div>
+
 
 <h3>Skills</h3>
-💻 JavaScript | HTML | CSS | C | C# | C++
-<br>
-🛢  SQL Server | MySQL
-<br>
-🔧 Visual Studio Code | Visual Studio | Git | Eclipse | Arduino
+<div dir="auto"><br>
+  <img align="center" alt="Gabriele-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;">
+  <img align="center" alt="Gabriele-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%;">
+  <img align="center" alt="Gabriele-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width: 100%;">
+  <img align="center" alt="Gabriele-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="max-width: 100%;">
+  <img align="center" alt="Gabriele-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" style="max-width: 100%;">
+  <img align="center" alt="Gabriele-CPlusPlus" height="30" width="40" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" style="max-width: 100%;">
+</div>
+<div dir="auto"><br>
+  <img align="center" alt="Gabriele-SqlServer" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" style="max-width: 100%;">
+  <img align="center" alt="Gabriele-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" style="max-width: 100%;">
+</div>
+<div dir="auto"><br>
+  <img align="center" alt="Gabriele-VisualCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;">
+  <img align="center" alt="Gabriele-VisualStudio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%;">
+  <img align="center" alt="Gabriele-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width: 100%;">
+  <img align="center" alt="Gabriele-Eclipse" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="max-width: 100%;">
+  <img align="center" alt="Gabriele-Arduino" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-plain.svg" style="max-width: 100%;">
+</div>
 
 <h3>🌐Comunicação</h3>
 - Português
