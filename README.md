@@ -15,7 +15,7 @@
 <div dir="auto"><br>
   <img align="center" alt="Gabriele-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="max-width: 100%;">
   <img align="center" alt="Gabriele-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width: 100%;">
-  <img align="center" alt="Gabriele-Unity" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" style="max-width: 100%;">
+  <img align="center" alt="Gabriele-Unity" background-color="white" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" style="max-width: 100%;">
 </div>
 
 
@@ -24,7 +24,7 @@
   <img align="center" alt="Gabriele-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;">
   <img align="center" alt="Gabriele-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%;">
   <img align="center" alt="Gabriele-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width: 100%;">
-  <img align="center" alt="Gabriele-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="max-width: 100%;">
+  <img align="center" alt="Gabriele-Csharp" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="max-width: 100%;">
   <img align="center" alt="Gabriele-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" style="max-width: 100%;">
   <img align="center" alt="Gabriele-CPlusPlus" height="30" width="40" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" style="max-width: 100%;">
 </div>
@@ -33,10 +33,10 @@
   <img align="center" alt="Gabriele-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" style="max-width: 100%;">
 </div>
 <div dir="auto"><br>
-  <img align="center" alt="Gabriele-VisualCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;">
-  <img align="center" alt="Gabriele-VisualStudio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%;">
-  <img align="center" alt="Gabriele-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width: 100%;">
-  <img align="center" alt="Gabriele-Eclipse" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="max-width: 100%;">
+  <img align="center" alt="Gabriele-VsCode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-plain.svg" style="max-width: 100%;">
+  <img align="center" alt="Gabriele-VisualStudio" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" style="max-width: 100%;">
+  <img align="center" alt="Gabriele-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" style="max-width: 100%;">
+  <img align="center" alt="Gabriele-Eclipse" height="30" width="30" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/eclipse-icon.png" style="max-width: 100%;">
   <img align="center" alt="Gabriele-Arduino" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-plain.svg" style="max-width: 100%;">
 </div>
 
