@@ -9,7 +9,7 @@
   <br>
   📚 Cursando Análise e Desenvolvimento de Sistemas no <a href="https://portal.cmp.ifsp.edu.br" target="_blank">Instituto Federal de São Paulo - Campus Campinas</a>.
   <br>
-  💻 Trabalho na empresa <a href="http://www.nccgroup.com.br" target="_blank">NCC Group Brasil</a> como Analista Desenvolvedor Fluig Junior.
+  💻 Trabalho na empresa <a href="http://www.nccgroup.com.br" target="_blank">NCC Group Brasil</a> como Analista Desenvolvedor Fluig Pleno I.
 
 <h3>Iniciando em</h3>
 <div dir="auto"><br>
