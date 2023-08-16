@@ -7,7 +7,7 @@
   <br>
   🎓 Técnica em Eletrônica pelo <a href="https://etecbentoquirino.com.br/new/" target="_blank">ETEC Bento Quirino</a>.
   <br>
-  📚 Cursando Análise e Desenvolvimento de Sistemas no <a href="https://portal.cmp.ifsp.edu.br" target="_blank">Instituto Federal de São Paulo - Campus Campinas</a>.
+  📚 Análise e Desenvolvimento de Sistemas pelo <a href="https://portal.cmp.ifsp.edu.br" target="_blank">Instituto Federal de São Paulo - Campus Campinas</a>.
   <br>
   💻 Trabalho na empresa <a href="http://www.nccgroup.com.br" target="_blank">NCC Group Brasil</a> como Analista Desenvolvedor Fluig Pleno I.
 
