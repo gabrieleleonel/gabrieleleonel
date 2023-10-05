@@ -7,7 +7,7 @@
   <br>
   Electronic Technician by <a href="https://etecbentoquirino.com.br/new/" target="_blank">ETEC Bento Quirino</a>.
   <br>
-  Analysis and Systems Development by <a href="https://portal.cmp.ifsp.edu.br" target="_blank">Instituto Federal de São Paulo - Campus Campinas</a>.
+  Systems Development and Analysis by <a href="https://portal.cmp.ifsp.edu.br" target="_blank">Instituto Federal de São Paulo - Campus Campinas</a>.
   <br>
   Work in the company <a href="http://www.nccgroup.com.br" target="_blank">NCC Group Brasil</a> as Full Developer Analyst III.
 
