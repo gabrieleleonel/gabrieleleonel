@@ -5,7 +5,7 @@
   <br>
   Pronouns: She/Her
   <br>
-  Technician in Electronics by <a href="https://etecbentoquirino.com.br/new/" target="_blank">ETEC Bento Quirino</a>.
+  Electronic Technician by <a href="https://etecbentoquirino.com.br/new/" target="_blank">ETEC Bento Quirino</a>.
   <br>
   Analysis and Systems Development by <a href="https://portal.cmp.ifsp.edu.br" target="_blank">Instituto Federal de São Paulo - Campus Campinas</a>.
   <br>
