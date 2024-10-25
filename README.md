@@ -9,7 +9,7 @@
   <br>
   Systems Development and Analysis by <a href="https://portal.cmp.ifsp.edu.br" target="_blank">Instituto Federal de São Paulo - Campus Campinas</a>.
   <br>
-  Work at the company <a href="http://www.nccgroup.com.br" target="_blank">NCC Group Brasil</a> as Full Developer Analyst III.
+  Work at the company <a href="http://www.nccgroup.com.br" target="_blank">NCC Group Brasil</a> as a Senior Developer.
 
 <h3>Starting</h3>
 <div dir="auto"><br>
